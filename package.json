@@ -1,0 +1,21 @@
+{
+  "name": "cheri-lupina-theme",
+  "displayName": "Cheri Lupina Theme",
+  "description": "A fanmade theme based on the vtuber Cheri Lupina from VReverie's 2nd generation",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cheri Lupina Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cheri Lupina Theme-color-theme.json"
+      }
+    ]
+  }
+}
