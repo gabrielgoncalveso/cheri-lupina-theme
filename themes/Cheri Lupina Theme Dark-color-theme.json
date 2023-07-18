@@ -3,7 +3,7 @@
   "colors": {
     "editor.background": "#2e1e21",
     "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
+    "activityBarBadge.background": "#ECB177",
     "sideBarTitle.foreground": "#bbbbbb",
 
     //Activity bar customizing
@@ -20,6 +20,9 @@
     //Status bar
     "statusBar.background": "#F9C9CD",
     "statusBar.foreground": "#121212",
+    "statusBar.debuggingBackground": "#C1656B",
+    "statusBar.debuggingForeground": "#FCE3E5",
+    "statusBar.noFolderBackground": "#F9C9CD",
     "statusBarItem.remoteBackground": "#C1656B",
 
     //Titlebar
@@ -40,7 +43,11 @@
     "dropdown.background": "#4A171D",
     "dropdown.border": "#FCE3E5",
     "dropdown.foreground": "#FCE3E5",
-    "input.background": "#4A171D"
+    "input.background": "#4A171D",
+    "inputOption.activeBorder": "#ECB177",
+
+    //Progressbar
+    "progressBar.background": "#ECB177"
   },
   "tokenColors": [
     {
