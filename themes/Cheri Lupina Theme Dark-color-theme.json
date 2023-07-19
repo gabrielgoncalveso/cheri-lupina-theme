@@ -1,6 +1,10 @@
 {
   "name": "Cheri Lupina Theme (Dark)",
   "colors": {
+    //TODO: Add some shades of light blue (from the rose in the hair design)
+    //TODO: Change colors in command selection (title bar)
+    //TODO: Change colors in notification center
+
     "editor.background": "#2e1e21",
     "editor.foreground": "#eeffff",
     "editorCursor.foreground": "#ECB177",
