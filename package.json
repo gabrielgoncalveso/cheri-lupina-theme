@@ -13,6 +13,14 @@
     "vtuber",
     "peepeepoopoo"
   ],
+  "homepage": "https://github.com/gabrielgoncalveso/cheri-lupina-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielgoncalveso/cheri-lupina-theme"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "preview": true,
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
