@@ -2,7 +2,17 @@
   "name": "cheri-lupina-theme",
   "displayName": "Cheri Lupina Theme",
   "description": "A fanmade theme based on the vtuber Cheri Lupina from VReverie's 2nd generation",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "GabrielLathos",
+  "keywords": [
+    "theme",
+    "cheri",
+    "lupina",
+    "cheri lupina",
+    "vreverie",
+    "vtuber",
+    "peepeepoopoo"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
