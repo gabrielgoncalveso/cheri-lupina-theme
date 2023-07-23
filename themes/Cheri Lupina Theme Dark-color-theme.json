@@ -1,12 +1,6 @@
 {
   "name": "Cheri Lupina Theme (Dark)",
   "colors": {
-    //TODO: Customize colors for js code
-    //TODO: Customize colors for html code
-    //TODO: Customize colors for css code
-    //TODO: Customize colors for elixir code
-    //TODO: Customize colors for dart code
-
     //Editor
     "editor.background": "#2e1e21",
     "editor.foreground": "#eeffff",
@@ -57,8 +51,6 @@
     "statusBarItem.prominentBackground": "#B3F7FF",
     "statusBarItem.remoteBackground": "#C1656B",
     "statusBarItem.compactHoverBackground": "#B3F7FF",
-
-    "extensionButton.hoverBackground": "#B3F7FF",
 
     //Minimap
     "minimap.errorHighlight": "#FF5370",
