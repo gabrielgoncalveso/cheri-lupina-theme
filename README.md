@@ -5,6 +5,9 @@
 <img style="display: block; margin-left: auto; margin-right: auto;" width="500px" src="https://github.com/gabrielgoncalveso/cheri-lupina-theme/assets/79107436/08255842-1384-4c88-8252-71eb496e6c03" />
 
 ## Screenshots
-<!---
-TODO: Add screenshots
---->
+- JavaScript
+![screenshot](./assets/screenshots/sample-theme-js.png)
+- Python
+![screenshot](./assets/screenshots/sample-theme-py.png)
+- HTML
+![screenshot](./assets/screenshots/sample-theme-html.png)
