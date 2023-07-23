@@ -44,14 +44,12 @@
     //Side bar
     "sideBar.background": "#22191b",
     "sideBar.foreground": "#FCE3E5",
-
     "sideBarSectionHeader.background": "#5d3c42",
     "sideBarSectionHeader.foreground": "#FCE3E5",
     "sideBarTitle.foreground": "#F9C9CD",
 
     //Status bar
     "statusBar.background": "#F9C9CD",
-
     "statusBar.foreground": "#121212",
     "statusBar.debuggingBackground": "#B3F7FF",
     "statusBarItem.activeBackground": "#C1656B",
@@ -127,14 +125,14 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#819097"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#89e4d5"
       }
     },
     {
@@ -155,7 +153,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#ea92c8"
       }
     },
     {
@@ -175,7 +173,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#da9399" //FIXME
       }
     },
     {
@@ -199,14 +197,14 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#B3F7FF"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#ec878c"
       }
     },
     {
@@ -244,7 +242,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#F9C9CD" //FIXME
       }
     },
     {
@@ -281,7 +279,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#97e2ff"
       }
     },
     {
@@ -325,7 +323,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#e6d8b3"
       }
     },
     {
