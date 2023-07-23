@@ -173,7 +173,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#da9399" //FIXME
+        "foreground": "#da9399"
       }
     },
     {
@@ -242,7 +242,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#F9C9CD" //FIXME
+        "foreground": "#F9C9CD"
       }
     },
     {
