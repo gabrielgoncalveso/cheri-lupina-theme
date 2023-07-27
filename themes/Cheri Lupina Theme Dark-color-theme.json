@@ -47,6 +47,8 @@
     "statusBar.background": "#F9C9CD",
     "statusBar.foreground": "#121212",
     "statusBar.debuggingBackground": "#B3F7FF",
+    "statusBar.noFolderBackground": "#5d3c42",
+    "statusBar.noFolderForeground": "#FCE3E5",
     "statusBarItem.activeBackground": "#C1656B",
     "statusBarItem.hoverBackground": "#B3F7FF",
     "statusBarItem.prominentBackground": "#B3F7FF",
