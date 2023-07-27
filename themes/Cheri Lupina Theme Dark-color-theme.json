@@ -9,8 +9,9 @@
     "editor.selectionBackground": "#5b2428",
     "editor.selectionHighlightBackground": "#5b2428",
     "editor.inactiveSelectionBackground": "#5b2428",
-    "editor.findMatchBackground": "#5b2428",
+    "editor.findMatchBackground": "#a13940",
     "editor.findMatchHighlightBackground": "#5b2428",
+    "editor.findMatchBorder": "#ECB17755",
     "editorBracketMatch.background": "#C1656B",
     "editorBracketMatch.border": "#C1656B",
 
